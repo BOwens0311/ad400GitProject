@@ -9,7 +9,7 @@ public class HelloGitHub {
     
     public static void main(String[] args) {
         System.out.println("Hello All");
-        String branchName = "Master";
+        String branchName = "Develop";
         System.out.println("This is the " + branchName + " Branch");
     }
     
