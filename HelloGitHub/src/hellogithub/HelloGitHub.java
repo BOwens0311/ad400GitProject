@@ -4,6 +4,7 @@ package hellogithub;
 /**
  * An application to demonstrate the utility of git repos
  * @author owens
+ * Adds a comment
  */
 public class HelloGitHub {
     
